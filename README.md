@@ -111,6 +111,8 @@ Random Forest Regressor found as most effective algorithm for this problem state
 ## Importance of feature
 We found that hour, week of year, Day, Month, Year, and weekend and features are most important features. We created this feature during feature engineering process as standard set of feature generation for time series data.
 
+![Feature importance](https://github.com/NiteshkumarJha/av_jobathon_apr2022/blob/main/src/Feature%20importance.png)
+
 ## Reporducing results
 
 For reproducing this results, kindly first create virtual environment using below commands:
