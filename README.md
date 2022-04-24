@@ -148,4 +148,4 @@ dependencies:
     - tensorflow==2.8.0
 ```
 
-After creating virtual environment, `av_jobathon_apr2022_modelexploration.ipynb` file can be run using *av-jobathon-apr-2022* kernal.
+After creating virtual environment, `av_jobathon_apr2022_modelexploration.ipynb` notebook from `src` folder can be run using *av-jobathon-apr-2022* kernal.
