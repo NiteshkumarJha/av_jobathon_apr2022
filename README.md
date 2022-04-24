@@ -111,9 +111,13 @@ Random Forest Regressor found as most effective algorithm for this problem state
 ## Importance of feature
 We found that hour, week of year, Day, Month, Year, and weekend and features are most important features. We created this feature during feature engineering process as standard set of feature generation for time series data.
 
-## System and virtual environment information
+## Reporducing results
 
 For reproducing this results, kindly first create virtual environment using below commands:
+
+### Create virtual environment
+
+Run below command in terminal or anaconda prompt.
 
 ``` terminal
 conda env create -f environment.yml
@@ -144,3 +148,4 @@ dependencies:
     - tensorflow==2.8.0
 ```
 
+After creating virtual environment, `av_jobathon_apr2022_modelexploration.ipynb` file can be run using *av-jobathon-apr-2022* kernal.
