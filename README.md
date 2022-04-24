@@ -78,8 +78,8 @@ Below steps are performed for identifying best machine learning algorithm:
  + Separate Features and target for both train and validation dataset.
  + Identify best machine learning algorithm from below set and perform hyperparameter tuning of best model.
 	
-|Model Name|train_score|val_score|
-|:---------:|:-------------:|:------:|
+|Sr. No.|Model Name|train_score|val_score|
+|:---------:|:---------:|:-------------:|:------:|
 |9|Random Forest Regressor|	22.43	|37.19|
 |10|Extra Trees Regressor|	21.36	|37.81|
 |11|XGBoost Regressor|	20.36	|44.09|
