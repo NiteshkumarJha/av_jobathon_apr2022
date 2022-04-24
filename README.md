@@ -37,7 +37,7 @@ __Evaluation metric__
 
 The evaluation metric for this hackathon is RMSE score.
 
-$$RMSE = \sqrt{\frac{1}{n} * \sum{(y_i - \hat{y})}^2}$$
+$$ RMSE = \sqrt{\frac{1}{n} * \sum{(y_i - \hat{y})}^2} $$
 
 where.
 
